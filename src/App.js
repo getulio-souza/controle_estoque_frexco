@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import AddProduto from "./Telas/addProduto";
+import AddProduto from "./Telas/Produto/addProduto";
 
 /* conenctando com a API de teste */
 class App extends React.Component {

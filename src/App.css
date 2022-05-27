@@ -10,6 +10,10 @@ li{
   margin: 20px 0;
 }
 
+.title{
+  font-weight: 700;
+}
+
 .main_div{
   margin:20px;
   padding: 20px;
@@ -33,16 +37,17 @@ li{
   text-align: start;
   padding-left: 5px;
   padding: 10px;
+  border-radius: 5px;
   color: #fff;
   background-color: #89bd23;
   margin: 10px 0;
 }
 
-.search_box{
+.search_form{
   margin: 0 auto;
 }
 
 .add_btn{
-  color: red;
+  margin: 0 10px;
 }
 
